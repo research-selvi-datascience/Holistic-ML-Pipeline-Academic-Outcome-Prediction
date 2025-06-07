@@ -1,4 +1,5 @@
 Academic Outcome Prediction Using Machine Learning
+
 This project explores machine learning models for predicting student dropout and academic success using a real-world higher education dataset. The study aims to identify effective preprocessing and modeling strategies to improve prediction accuracy and understand underlying patterns in student data.
 
 Key highlights:
